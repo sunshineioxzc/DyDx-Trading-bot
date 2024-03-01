@@ -1,4 +1,3 @@
-# DyDx-Trading-bot
 ## DyDx Trading bot with custom SDK for API V3
 
 ### Overview
