@@ -52,4 +52,4 @@ GET /v3/protocol/accounts
 
 ## License
 
-This project is licensed under the (c)  - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the (c) 2024 Steve Norman - see the [LICENSE](LICENSE) file for details.
