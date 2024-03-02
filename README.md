@@ -6,6 +6,7 @@ The bot employs a sophisticated trading strategy that incorporates the Moving Av
 Traders have the flexibility to select trading pairs and configure stop-loss and take-profit percentages within the bot's settings. This customization allows traders to set predefined levels at which the bot will automatically execute sell orders to limit losses (SL) or secure profits (TP).
 
 ### SDK
+```
 The SDK encapsulates basic dYdX API calls, simplifying interaction with the exchange.
 GET /v3/markets
 GET /v3/accounts
@@ -37,6 +38,7 @@ GET /v3/markets/{marketId}/trades/{tradeId}
 GET /v3/protocol/stats
 GET /v3/protocol/health
 GET /v3/protocol/accounts
+```
 
 ### Technologies used
 - .NET Core 5
